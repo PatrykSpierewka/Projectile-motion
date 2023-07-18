@@ -32,5 +32,6 @@ $$
 
 ## Animation for Earth, Mars and Jupiter acceleration with: Velocity(V0) = 30[m/s], Angle = 45
 <p align="center">
-  <img src="https://github.com/PatrykSpierewka/Projectile-motion/assets/101202344/0269e23c-23a4-4cd3-8e03-74ef13dd7dcc" alt="motion">
+  <img src="https://github.com/PatrykSpierewka/Projectile-motion/assets/101202344/7a1bf374-2031-4b85-ba4c-38b0be01feeb" alt="motion_gif">
 </p>
+
