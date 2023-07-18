@@ -26,9 +26,8 @@ $$
 \frac{{\mathrm{d} y^2(t)}}{{\mathrm{d} t^2}} = -g
 $$
 
-###
 <p align="center">
-Animation for Earth, Mars and Jupiter acceleration with: Velocity(V0) = 30[m/s], Angle = 45
+  ### Animation for Earth, Mars and Jupiter acceleration with: Velocity(V0) = 30[m/s], Angle = 45
 </p>
 
 <p align="center">
