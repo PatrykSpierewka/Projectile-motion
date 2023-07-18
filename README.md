@@ -1,1 +1,1 @@
-# Projectile-motion-with-different-gravitational-accelerations
+# Projectile-motion
