@@ -25,3 +25,7 @@ $$
 $$
 \frac{{\mathrm{d} y^2(t)}}{{\mathrm{d} t^2}} = -g
 $$
+
+<p align="center">
+  <img src="https://github.com/PatrykSpierewka/Projectile-motion/assets/101202344/9e82ea43-9661-45b4-87fe-43196f498ada" alt="projectile">
+</p>
