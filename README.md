@@ -1,4 +1,5 @@
 # Projectile-motion
+The repository contains code for projectile motion animation for different values of acceleration, initial velocity and initial angle, which can be changed as needed. In this project calculus was used to create a trajectory of body movement. 
 
 ## Initial conditions:
 $$
