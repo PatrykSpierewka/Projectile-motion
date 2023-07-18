@@ -1,6 +1,6 @@
 # Projectile-motion
 
-
+## Initial conditions:
 $$
 x(0) = 0
 $$
@@ -17,6 +17,7 @@ $$
 \frac{{\mathrm{d} y(0)}}{{\mathrm{d} t}} = V_{0y}
 $$
 
+## Model equations:
 $$
 \frac{{\mathrm{d} x^2(t)}}{{\mathrm{d} t^2}} = 0
 $$
